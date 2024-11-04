@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.top1 {
+    background-color: #323f4b;
+    text-align: center;
+    color: white;
+    height: 8vh;
+    padding: 6px;
+    font-weight: bold;
+
+}
+
+.bgimage1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/chatbg.png");
+    height: 100vh;
+    width: 100vw;
+
+}
+
+.chat1 {
+    background-color: #47a3f3;
+    color: white;
+    height: 7vh;
+    width: 90vw;
+    text-align: right;
+    padding: 10px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    font-family: roboto;
+    font-size: 15px;
+}
+
+.chat2 {
+    background-color: #52606d;
+    color: white;
+    height: 7vh;
+    width: 90vw;
+    text-align: right;
+    padding: 10px;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    font-family: roboto;
+    font-size: 15px;
+}
+
+.p1 {
+    border-top-left-radius: 5px;
+
+}
+
+.p2 {
+    border-top-right-radius: 5px;
+}
